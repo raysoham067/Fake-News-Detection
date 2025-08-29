@@ -196,6 +196,8 @@ This application is for educational and demonstration purposes. While it uses ma
 - [ ] Advanced NLP features (sentiment analysis, entity recognition)
 - [ ] Real-time news feed monitoring
 - [ ] Browser extension for social media platforms
+<img width="1150" height="914" alt="Screenshot 2025-08-29 103440" src="https://github.com/user-attachments/assets/a0295569-456f-4417-8cfe-14c5405a8262" />
+
 
 ## Support
 
